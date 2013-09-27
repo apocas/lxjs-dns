@@ -1,0 +1,11 @@
+{
+    "name"        : "lxjs-dns"
+  , "version"     : "0.0.1"
+  , "homepage"    : "http://abru.pt"
+  , "description" : "Docker.io LXJS Workshop DNS Server"
+  , "author": "Pedro Dias <petermdias@gmail.com>"
+  , "main"    : "./main.js"
+  , "dependencies": {
+    "native-dns"          : "*"
+  }
+}
